@@ -1,0 +1,17 @@
+html.top3{
+  background-image: url('baseball.jpg');
+  background-repeat: no-repeat;
+  background-position:50% 0;
+  background-attachment: fixed;
+}
+html.basketball{
+  background-image: url('basketball.jpg');
+  background-repeat: no-repeat;
+  background-position:50% 0;
+  background-attachment: fixed;
+}
+.textblock{
+  background-color: #a08c8cad;
+  margin-right: 500px;
+  padding: 20px;
+}
